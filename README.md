@@ -7,15 +7,25 @@ Users can upload a selfie, and the app searches through the event photos to find
 How It Works
 
 -Upload a selfie
+
 -Detect the face using InsightFace
+
 -Compare it with saved face embeddings
+
 -Display the closest matching event photos
+
 -Built With
+
 -FastAPI
+
 -Python
+
 -OpenCV
+
 -InsightFace
+
 -NumPy
+
 -Jinja2
 
 Run
