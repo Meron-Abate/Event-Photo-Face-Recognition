@@ -14,7 +14,7 @@ How It Works
 
 -Display the closest matching event photos
 
--Built With
+Built With
 
 -FastAPI
 
